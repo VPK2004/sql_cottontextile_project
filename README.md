@@ -1,4 +1,4 @@
-# sql_Optimizing_Online_Sports_Retail_Revenue_project
+# sql_dashboard_project
 
 To optimize online sports retail revenue using SQL, here are key project ideas you can explore or create:
 
